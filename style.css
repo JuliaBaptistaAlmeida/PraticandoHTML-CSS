@@ -1,0 +1,14 @@
+@charset "UTF-8"; /*para acentuação*/
+
+body {
+    background-color: rgb(205, 181, 250);
+    color: rgb(19, 17, 30);
+    font: normal 18pt Arial;
+}
+h1 {
+    color: blueviolet;
+    background-color: aliceblue;
+}
+p {
+    text-align: justify;
+}
