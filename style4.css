@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(white, rgb(255, 106, 195));
+    min-height: 100vh;
+    background-attachment: fixed ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1#principal {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(255, 124, 205);
+}
+
+h1 {
+    color: rgb(243, 71, 185);
+}
+
+h2.basico {
+    color: rgb(89, 232, 17);
+    text-shadow: 2px 2px 2px rgb(16, 130, 24)
+}
+
+h2.inter {
+    color: rgb(255, 221, 0);
+    text-shadow: 2px 2px 2px rgb(255, 138, 21);
+}
+
+h2.avan {
+    color: rgb(255, 40, 40);
+    text-shadow: 2px 2px 2px brown;
+}

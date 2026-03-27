@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(white, rgb(183, 207, 107));
+    min-height: 100vh;
+    background-attachment: fixed ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1#principal {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(38, 83, 41);
+}
+
+h1 {
+    color: rgb(9, 129, 35);
+}
+
+h2 {
+    color: rgb(9, 129, 35);
+}
