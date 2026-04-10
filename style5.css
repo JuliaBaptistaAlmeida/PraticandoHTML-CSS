@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+/*
+#ffc0cb
+#ff7eb4
+#ff5291
+#c1255e
+55142c
+*/
+
+:root {
+    --cor1: #ffc0cb;
+    --cor2: #ff7eb4;
+    --cor3: #ff5291;
+    --cor4: #c1255e;
+    --cor5: #55142c;
+
+    --fonte1: Arial, Helvetica, sans-serif;
+    --fonte2: Georgia, 'Times New Roman', Times, serif
+}
+
+* {
+    text-align: center;
+}
+
+body {
+    background-color: var(--cor1);
+    font-family: var(--fonte1);
+}
+
+h1 {
+    color: var(--cor3);
+    font-family: var(--fonte2);
+
+}
+
+h2 {
+    color: var(--cor2);
+    font-family: var(--fonte1);
+}
+
+p {
+    color: var(--cor5);
+    background-color: var(--cor2);
+    font-family: var(--fonte1);
+}
